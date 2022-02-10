@@ -1,4 +1,5 @@
-### Hi there folks! 👋
+### Hi there folks! Welcome to my profile. 👋
+I am a Software Engineer based out of India and I am documenting my journey along on the way so if you want to hop in on this journey, follow me and i would encourage everyone to share their journey on their respective socials too. This is extremely beneficial for the community.
 
 <!--
 **sanchitarorra/sanchitarorra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
