@@ -1,7 +1,7 @@
 // banner for GitHub readme
 <h1 align="center">Hi 👋, I'm Sanchit Arora</h1>
 <h3 align="center">I'm a passionate Software Engineer based out of India. Always up for learning new technologies and collaborating with fellow developers. I like reading Self help and Sci-fi books. Massive MMA fan. Open Source contributor.</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif”>
+<img align="right" alt="coding" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif" width="500" height="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchitarorra&label=Profile%20views&color=0e75b6&style=flat" alt="sanchitarorra" /> </p>
 
@@ -18,7 +18,7 @@
 <a href="https://twitter.com/sanchitarorra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanchitarorra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanchitarorra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanchitarorra" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sanchit arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanchit arora" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sudoku_ssj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudoku_ssj" height="30" width="40" /></a>
+<a href="https://leetcode.com/SudokuSSJ/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudoku_ssj" height="30" width="40" /></a>
 </p>
 	
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchitarorra&show_icons=true&locale=en" alt="sanchitarorra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitarorra&" alt="sanchitarorra" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitarorra&" alt="sanchitarorra" /></p>
