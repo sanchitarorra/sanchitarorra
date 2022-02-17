@@ -1,8 +1,8 @@
 <img  alt="daftCat_image" src="https://preview.redd.it/c18noamoqwj71.gif?width=896&auto=webp&s=75a1092a13efc799e57fd9b00f12e247a60148c9" align="left" height="250" display="block">
 
 <h1 align="center">Hi 👋, I'm Sanchit Arora</h1>
-<h3 align="center">I'm a passionate Software Engineer based out of India. Always up for learning new technologies and collaborating with fellow developers. I like reading Self help and Sci-fi books. Massive MMA fan. Open Source contributor.</h3>
-<img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="380" height="300">
+<h3 align="center">I'm a passionate Software Engineer based out of India. Always up for learning new technologies and collaborating with fellow developers. Open source contributor, reader and a massive MMA fan.</h3>
+<img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400" height="290">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchitarorra&label=Profile%20views&color=0e75b6&style=flat" alt="sanchitarorra" /> </p>
 
