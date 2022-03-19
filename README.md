@@ -15,7 +15,7 @@
 <a href="https://twitter.com/sanchitarorra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanchitarorra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanchitarorra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanchitarorra" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sanchit arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanchit arora" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sudoku_ssj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudoku_ssj" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Sudoku_SSJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudoku_ssj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
