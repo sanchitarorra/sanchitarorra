@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanchit Arora</h1>
-<h3 align="center">I'm a passionate Software Engineer based out of India. Always up for learning new technologies and collaborating with other developers. Open Source enthusiast and MMA fan.</h3>
+<h3 align="center">Software Engineer based out of India. Open source contributor. Would love to collaborate.</h3>
 <img align="right" alt="coding" src="https://i.pinimg.com/originals/71/33/c7/7133c746eca7e3a7b84aee1027b4b935.gif" width="350" height="400">
 
 <p align="left"> <a href="https://twitter.com/sanchitarorra" target="blank"><img src="https://img.shields.io/twitter/follow/sanchitarorra?logo=twitter&style=for-the-badge" alt="sanchitarorra" /></a> </p>
